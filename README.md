@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bariksounak
-- 👀 I’m interested in Data Sciece, Machine Learning, Deep Learning
-- 🌱 I’m currently learning new algoritms, gathering my experience in kaggle 
+- 👀 I’m interested in Data Sciece, Machine Learning, Deep Learning 
 - 📫 How to reach me .. mail@ sounakbarik@gmail.com
 
 <!---
